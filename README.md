@@ -351,7 +351,7 @@ If a key has ever been exposed publicly, **rotate it immediately**.
 
 <a href="https://github.com/Hidden-Rhythm/a-cute-ai">
 
-**github.com/Hidden-Rhythm/a-cute-ai-by-hidden**
+**github.com/Hidden-Rhythm/a-cute-ai**
 
 </a>
 
