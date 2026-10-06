@@ -15,7 +15,7 @@
 
 <br>
 
-<a href="https://a-cute-ai.vercel.app">
+<a href="https://a-cute-ai-by-hidden.vercel.app">
   <img src="https://img.shields.io/badge/✦_TRY_HIDDEN_AI-111111?style=for-the-badge" alt="Try Hidden AI">
 </a>
 
