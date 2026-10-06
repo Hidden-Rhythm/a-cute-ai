@@ -15,13 +15,13 @@
 
 <br>
 
-<a href="https://a-cute-ai-by-hidden.vercel.app">
+<a href="https://a-cute-ai.vercel.app">
   <img src="https://img.shields.io/badge/✦_TRY_HIDDEN_AI-111111?style=for-the-badge" alt="Try Hidden AI">
 </a>
 
  
 
-<a href="https://github.com/Hidden-Rhythm/a-cute-ai-by-hidden">
+<a href="https://github.com/Hidden-Rhythm/a-cute-ai">
   <img src="https://img.shields.io/badge/VIEW_SOURCE-111111?style=for-the-badge&logo=github&logoColor=white" alt="View Source">
 </a>
 
@@ -309,8 +309,8 @@ Python dependencies required by the backend.
 Clone the repository:
 
 ```bash
-git clone https://github.com/Hidden-Rhythm/a-cute-ai-by-hidden.git
-cd a-cute-ai-by-hidden
+git clone https://github.com/Hidden-Rhythm/a-cute-ai.git
+cd a-cute-ai
 ```
 
 Install dependencies:
@@ -349,7 +349,7 @@ If a key has ever been exposed publicly, **rotate it immediately**.
 
 ## ✦ Source
 
-<a href="https://github.com/Hidden-Rhythm/a-cute-ai-by-hidden">
+<a href="https://github.com/Hidden-Rhythm/a-cute-ai">
 
 **github.com/Hidden-Rhythm/a-cute-ai-by-hidden**
 
